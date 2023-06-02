@@ -25,6 +25,12 @@ section {
     padding: 1em;
 }
 
+@media (max-width: 550px) {
+    #formulario {
+        width: 40%;
+    }
+}
+
 label {
     display: block;
     text-align: center;
